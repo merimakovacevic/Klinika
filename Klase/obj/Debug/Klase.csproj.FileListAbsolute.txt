@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\ConsoleApplication3\Klase\bin\Debug\Klase.dll
+C:\Users\User\Desktop\ConsoleApplication3\Klase\bin\Debug\Klase.pdb
+C:\Users\User\Desktop\ConsoleApplication3\Klase\obj\Debug\Klase.dll
+C:\Users\User\Desktop\ConsoleApplication3\Klase\obj\Debug\Klase.pdb
+C:\Users\User\Desktop\ConsoleApplication3\Klase\obj\Debug\Klase.csprojResolveAssemblyReference.cache
